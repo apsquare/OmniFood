@@ -40,4 +40,16 @@ Omnifood is your **365-days-a-year smart food subscription**, designed to help y
 
 ---
 
+## ** Some Glimpses **
+
+![Glimpse1](img/glimpses/Screenshot%202025-10-04%20at%2010.26.38 PM.png)
+
+![Glimpse2](img/glimpses/Screenshot%202025-10-04%20at%2010.26.53 PM.png)
+
+![Glimpse3](img/glimpses/Screenshot%202025-10-04%20at%2010.27.03 PM.png)
+
+![Glimpse4](img/glimpses/Screenshot%202025-10-04%20at%2010.27.12 PM.png)
+
+![Glimpse5](img/glimpses/Screenshot%202025-10-04%20at%2010.28.11 PM.png)
+
 > **Eat smart. Feel great. Live better — with Omnifood AI.**
