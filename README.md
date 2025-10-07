@@ -1,6 +1,6 @@
 # **Omnifood — Your Smart Personal Meal Planner**
 
-### Never waste time deciding what to eat again!
+### Never waste time deciding what to eat again! OmniFood is here to help you out !
 
 Omnifood is your **365-days-a-year smart food subscription**, designed to help you **eat healthy and stay energized** — effortlessly.
 
