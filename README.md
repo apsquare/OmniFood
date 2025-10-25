@@ -2,7 +2,7 @@
 
 ### Never waste time deciding what to eat again! OmniFood is here to help you out !
 
-Omnifood is your **365-days-a-year smart food subscription**, designed to help you **eat healthy and stay energized** — effortlessly.
+Omnifood is your **365-days-a-year smart food subscription**, designed to help you **eat healthy and stay energized** — effortlessly
 
 ---
 
